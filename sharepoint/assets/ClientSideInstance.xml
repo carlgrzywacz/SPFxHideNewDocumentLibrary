@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <ClientSideComponentInstance
+        Title="HeaderAndHideDocLibrary"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ComponentId="3f69dcce-ad72-475a-af9c-c33d974d716e"
+        Properties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </ClientSideComponentInstance>
+</Elements>

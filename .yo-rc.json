@@ -1,0 +1,12 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem19",
+    "version": "1.12.1",
+    "libraryName": "app-customizer-header-and-hid-doc-lib",
+    "libraryId": "68b4bff0-73b5-4515-82db-640f6e69f06a",
+    "packageManager": "npm",
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}

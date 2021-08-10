@@ -1,0 +1,3 @@
+button[name$="Document library"].ms-ContextualMenu-link {
+    display:none !important;
+  }
